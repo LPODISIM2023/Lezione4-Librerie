@@ -12,4 +12,4 @@ Selezionare la cartella appena scaricata
 
 che rileverà il progetto (grazie al file ```.project```) e vi permetterà di importarlo.
 
-Per lanciare e giocare con il progetto usare i configuratori (come mostrato durante l'esercitazione di lunedì).
+Per lanciare e giocare con il progetto usare i configuratori (come mostrato durante l'esercitazione di lunedì 6 marzo).

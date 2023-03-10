@@ -1,9 +1,8 @@
 # Lezione4-Librerie
-Questo repository contiene il codice sviluppato in classe durante la 4 lezione. Tale codice include usa la libreria apache commons cli per il recupero degli argomenti da linea di comando.
+Questo repository contiene il codice sviluppato in classe durante la 4 lezione. Tale codice usa la libreria apache commons cli [https://commons.apache.org/proper/commons-cli/](https://commons.apache.org/proper/commons-cli/) per il recupero degli argomenti da linea di comando.
 
 ## Importare il progetto in eclipse
-Dopo aver "scaricato" (più in avanti vedremo come clonare il repository con il Version Control System (VCS) git)
-per importare il progetto in eclipse usare la funzionalità import
+Dopo aver "scaricato" (più in avanti vedremo come clonare il repository con il Version Control System (VCS) git). per importare il progetto in eclipse usare la funzionalità ```import```.
 
 ![image](https://user-images.githubusercontent.com/7288605/224267468-e702cc98-d828-42d8-b95f-23ce7628b3f7.png)
 
